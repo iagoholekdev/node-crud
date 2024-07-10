@@ -1,0 +1,19 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar arquivos de log do npm
+npm-debug.log
+
+# Ignorar arquivo de lock do pacote
+package-lock.json
+
+# Ignorar arquivos de build
+dist/
+build/
+
+# Ignorar arquivos de ambiente local
+.env
+
+# Ignorar outros arquivos de log e backup
+*.log
+*.backup
